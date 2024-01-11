@@ -1,5 +1,5 @@
 -- title:   Topple!
--- author:  Quinten Konyn
+-- author:  Quinten Konyn and Jatinderjit Singh
 -- desc:    Don't let the tower fall!
 -- site:    QuintenKonyn.recurse.com
 -- license: MIT License (change this to your license of choice)
